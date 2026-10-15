@@ -1,0 +1,6 @@
+{
+  "name": "MediMind AI",
+  "description": "Intelligent Health Record Analysis and Health Insight Generation System for Patients, Doctors, and Administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
